@@ -1,0 +1,45 @@
+#nav {
+    margin:30px;
+    padding:10px;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+ #accueil{
+    display:inline;
+    padding:0;
+    margin:10px;
+}
+ #pageTheo{
+     display:inline;
+     padding:0;
+     margin:10px;
+}
+#veilleTechnologique{
+    display:inline;
+    padding:0;
+    margin:10px;
+}
+#contact{
+    display:inline;
+    padding:0;
+    margin:10px;
+}
+#cv{
+    display:inline;
+    padding:0;
+    margin:10px;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color:white;
+}
+a:hover {
+    color: rgb(10, 26, 248);
+}
+a:active {
+    color:white;
+}

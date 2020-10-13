@@ -1,0 +1,14 @@
+body{
+    background-image: url("../CSS/Portfolio.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.presentation{
+    width: 780px;
+    Margin: auto;
+    font-size: 25px;
+    font-family: 'Source sans Pro' , 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: transparent;
+    text-align: justify;
+    color: white;
+}

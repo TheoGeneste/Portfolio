@@ -1,0 +1,10 @@
+body{
+    background-image: url("../CSS/Portfolio.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.formulaire{
+    color: white;
+    text-align: center;
+}
