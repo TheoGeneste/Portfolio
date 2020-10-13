@@ -10,7 +10,7 @@
 <body>
 <nav id="nav">
             <ul>
-                <li id="accueil"><a href="../View/index.php">Accueil</a></li>
+                <li id="accueil"><a href="../index.php">Accueil</a></li>
                 <li id="cv"><a href="../View/PageTheo.php">CV</a></li>
                 <li id="veilleTechnologique"><a href="../View/veilleTechnologique.php">Veille Technologique</a></li>
                 <li id="contact"><a href="../View/contact.php">Contact</a></li>
