@@ -5,7 +5,8 @@ class Bdd{
 
     public function __construct() {
         try {
-            $this->dbh = new PDO("mysql:dbname=b6_26959965_Information;host=sql303.byethost6.com;charset=utf8", "b6_26959965", "Theolea2421$");
+            //$this->dbh = new PDO("mysql:dbname=b6_26959965_Information;host=sql303.byethost6.com;charset=utf8", "b6_26959965", "Theolea2421$");
+            $this->dbh = new PDO("mysql:dbname=Portfolio;host=localhost:8889;charset=utf8", "root", "root");
         } catch (PDOException $e) {
             echo 'Connexion échouée : ' . $e->getMessage();
         }
