@@ -11,7 +11,7 @@
     <body>
     <nav id="nav">
             <ul>
-                <li id="accueil"><a href="../View/index.php">Accueil</a></li>
+                <li id="accueil"><a href="../index.php">Accueil</a></li>
                 <li id="cv"><a href="../View/PageTheo.php">CV</a></li>
                 <li id="veilleTechnologique"><a href="../View/veilleTechnologique.php">Veille Technologique</a></li>
                 <li id="contact"><a href="../View/contact.php">Contact</a></li>
@@ -28,7 +28,7 @@
                         <input type="text" id="prenom" name="prenom" /></p>
                     <p>
                         <label for="adresseMail">Adresse Mail:</label>
-                        <input type="text" id="email" name="email" /></p>
+                        <input type="email" id="email" name="email" /></p>
                     <p>
                         <label for="ville">Ville :</label>
                         <input type="text" id="ville" name="ville" /></p>
