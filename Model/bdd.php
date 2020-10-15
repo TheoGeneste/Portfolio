@@ -11,7 +11,7 @@ class Bdd{
         }
     }
 
-    public function insertExpediteur($nom, $prenom, $mail , $ville, $message) {
+    public function insertExpediteur($mail, $nom, $prenom, $ville, $message) {
         $sql = "INSERT INTO `Expediteur`(`EX_Mail`, `EX_Nom`, `EX_Prenom`, `EX_Ville`,`EX_Message`) VALUES (:EX_Mail, :EX_Nom, :EX_Prenom, :EX_Ville, :EX_Message)";
         $req = $this->dbh->prepare($sql);
 
