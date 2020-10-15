@@ -1,11 +1,11 @@
 body{
-    background-image: url("../CSS/PortfolioSombre.jpeg");
+    background-image: url("../CSS/PorfolioSombre.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .page{
     text-align: center;
-    color : rgb(173, 234, 250);
+    color :white;
     font-size: 18px;
 }
 

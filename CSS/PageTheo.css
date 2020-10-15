@@ -10,7 +10,7 @@
     background-color: #fffffff1;
 }
 body{
-    background-image: url("../CSS/PortfolioSombre.jpeg");
+    background-image: url("../CSS/PorfolioSombre.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -75,8 +75,8 @@ h2{
 }
 
 #ObjetCv{
-    position:center ;
-    margin-left: 235px;
+    /* position:center ;
+    margin-left: 235px; */
     width: 100%;
     height: 100%;
 }
