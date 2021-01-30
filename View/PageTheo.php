@@ -146,7 +146,7 @@
     <!-- <p>
          <a id='bouton' href="Cv.pdf" 
          onclick="window.open(this.href)" download="Cv.pdf" > Télecharger mon CV </a> -->
-         <object id='ObjetCv' data="../CSS/Cv.pdf" type="application/pdf">
+         <object id='ObjetCv' data="../CSS/Cv.pdf" type="application/pdf" >
             lien alternatif : <a href="../CSS/Cv.pdf">Mon CV PDF</a>
           </object>
     <!-- </p> -->
