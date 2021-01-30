@@ -1,0 +1,78 @@
+.page {
+    width: 780px;
+    Margin: auto;
+    font-size: 15px;
+    font-family: 'Source sans Pro', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid rgba(2, 70, 134, 0.815);
+    text-align: justify;
+    border-radius: 8px;
+    box-shadow: 2px 4px 3px black;
+    background-color: #fffffff1;
+}
+
+.info {
+    float: left;
+    margin-left: 40px;
+}
+
+.photo {
+    float: right;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+
+.infophoto {
+    height: 180px;
+}
+
+.section {
+    margin-bottom: -10px;
+}
+
+.sousSection {
+    font-size: 15px;
+    margin-top: -15px;
+}
+
+.strong {
+    font-size: 17px,
+}
+
+h2 {
+    font-size: 17px;
+    color: rgba(2, 70, 134, 0.815);
+    text-transform: uppercase;
+    border-bottom: 2px solid #3388dd;
+}
+
+.table {
+    border-spacing: 40px 20px;
+}
+
+#table1 {
+    border-spacing: 75px 20px;
+    margin-left: -35px;
+}
+
+#table2 {
+    border-spacing: 155px 20px;
+    margin-left: -120px;
+}
+
+#table3 {
+    border-spacing: 240px 20px;
+    margin-left: -200px;
+}
+
+#table4 {
+    margin-left: 300px;
+}
+
+#table5 {
+    border-spacing: 155px 20px;
+    margin-left: 180px;
+}
+
+h2 {
+    margin-left: 10px;
+}
