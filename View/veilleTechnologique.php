@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Accueil Portfolio</title>
+    <title>Veille Technologique</title>
     <meta name="description" content="Accueil Portfolio">
     <link rel="stylesheet" type='text/css' href="../CSS/veilleTechnologique.css">
     <link rel="stylesheet" href="../CSS/nav.css">

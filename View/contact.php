@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Mon CV</title>
+        <title>Contact</title>
         <meta name="description" content="Ma Deuxieme page">
         <link rel="stylesheet" href="../CSS/contact.css">
         <link rel="stylesheet" href="../CSS/nav.css">
