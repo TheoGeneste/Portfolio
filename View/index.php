@@ -21,7 +21,7 @@
     <div class="presentation">
         <p>Bonjour ! Je suis un étudiant qui aspire à devenir Développeur.</p></br>
 
-        <p>Je m’appelle Geneste Théo, j’ai 18ans, je suis titulaire du Permis B, je réside à Bouchain.</br>
+        <p>Je m’appelle Geneste Théo, j’ai 19ans, je suis titulaire du Permis B, je réside à Bouchain.</br>
         Pour devenir développeur je suis actuellement une formation BTS services informatiques aux organisations. Je pense avoir les
         qualités requises pour suivre cette voie car je suis consciencieux, ordonné et passionné.</p></br>
 

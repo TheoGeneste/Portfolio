@@ -15,8 +15,8 @@
                 <li id="contact"><a href="../View/contact.php">Contact</a></li>
             </ul>
     </nav>
-            <object id='ObjetCv' data="../CSS/Cv-Motivation.pdf" type="application/pdf">
-                lien alternatif : <a href="../CSS/Cv-Motivation.pdf">CV et Lettre de Motivation</a>
+            <object id='ObjetCv' data="../CSS/cv-motivation1.pdf" type="application/pdf">
+                lien alternatif : <a href="../CSS/cv-motivation1.pdf">CV et Lettre de Motivation</a>
             </objetc>
     </body>
 </html>
