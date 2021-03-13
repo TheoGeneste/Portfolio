@@ -25,7 +25,7 @@
         Pour devenir développeur je suis actuellement une formation BTS services informatiques aux organisations. Je pense avoir les
         qualités requises pour suivre cette voie car je suis consciencieux, ordonné et passionné.</p></br>
 
-        <p>Je suis actuellement à la recherche d’un stage pour le mois de mai 2020 en entreprise. Vous trouverez sur ce site mon cv, mes expériences professionnelles et ma veille technologique.</p></br>
+        <p>Je suis actuellement à la recherche d’une entreprise pour une alternance pour le mois de septembre 2021. Vous trouverez sur ce site mon cv, mes expériences professionnelles et ma veille technologique.</p></br>
 
         <p>Je vous souhaite une bonne visite.</p>
     </div>
