@@ -14,6 +14,7 @@
                 <li id="cv"><a href="../View/PageTheo.php">CV</a></li>
                 <li id="veilleTechnologique"><a href="../View/veilleTechnologique.php">Veille Technologique</a></li>
                 <li id="contact"><a href="../View/contact.php">Contact</a></li>
+                <li id="contact"><a href="../View/synthèse.php">Synthèse</a></li>
             </ul>
     </nav>
         <form  class=formulaire id="sondage" method="post" action="../Controller/formulaire.php">

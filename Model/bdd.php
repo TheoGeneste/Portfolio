@@ -21,5 +21,3 @@ class Bdd{
     }
 }
 ?>
-
-<?php
