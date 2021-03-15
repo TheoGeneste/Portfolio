@@ -56,7 +56,7 @@
                 <!--.wrap = container (width: 90%) -->
                 <div class="wrap" style="color : white">
                     <h1><strong>Veille Technologique</strong></h1>
-                    <p><h6>Sujet : L'inteligence artificielle et l'automobile</h6></p>
+                    <p><h6>Sujet : L'intelligence artificielle et l'automobile</h6></p>
                 </div>
                 <!-- .end .wrap -->
             </section>

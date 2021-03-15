@@ -38,7 +38,7 @@
                     </p>
                 </fieldset>
         
-                <div style="text-align:center;"><input type="submit" name="envoie" value="Envoyer !!" /></div>
+                <div style="text-align:center;"><input type="submit" name="envoie" value="Envoyer" /></div>
             </form>
     </body>
 </html>

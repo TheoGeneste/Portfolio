@@ -16,8 +16,8 @@
                 <li id="contact"><a href="../View/synthèse.php">Synthèse</a></li>
             </ul>
     </nav>
-            <object id='ObjetCv' data="../CSS/tableauDeSynthese.pdf" type="application/pdf">
-                lien alternatif : <a href="../CSS/tableauDeSynthese.pdf">CV et Lettre de Motivation</a>
+            <object id='ObjetCv' data="../CSS/synthese.pdf" type="application/pdf">
+                lien alternatif : <a href="../CSS/synthese.pdf">CV et Lettre de Motivation</a>
             </objetc>
     </body>
 </html>
